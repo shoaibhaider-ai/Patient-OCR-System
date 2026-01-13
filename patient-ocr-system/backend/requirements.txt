@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+opencv-python
+Pillow
+pytesseract
+pydantic
+starlette
+annotated-doc
+
